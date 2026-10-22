@@ -1,5 +1,5 @@
 # qscomplete university guide applicable every day all times
-
+https://danddidoos.github.io/universityguide/
 are you sick of complete university guide telling you st andrews is above oxbridge and loughborough is more prestigious than ucl? then look no further than the true university rankings!
 
 ## Description
@@ -8,6 +8,7 @@ this project's use is: intended to be downloaded, extracted so css works then ru
 
 ## Getting Started
 head over to releases and download the latest one
+or use this link https://danddidoos.github.io/universityguide/
 
 ### Dependencies
 
