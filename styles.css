@@ -95,3 +95,17 @@ div.warticle h2 {
     flex-direction:column;
     gap:0px;
 }
+
+div.oxford {
+    display: flex;
+    flex-direction: column;
+    clear: both;
+    margin-top: 20px
+}
+
+.oxford-logo {
+    width: 100px;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+}
