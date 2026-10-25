@@ -1,5 +1,5 @@
 console.log("Javascript connected");
-const searchInput = document.getElementById("search-input");
+const searchInput = document.getElementById("searchInput");
 const tableRows = document.querySelectorAll("#rankings-body tr");
 searchInput.addEventListener("input", (event) => {
     const query = event.target.value.toLowerCase();

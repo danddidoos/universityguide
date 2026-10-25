@@ -108,4 +108,13 @@ div.oxford {
     height: auto;
     float: left;
     margin-right: 20px;
+    margin-left: 20px;
+}
+
+
+.warticle2 {
+    display: flex;
+    flex-direction: column;
+    clear: both;
+    margin-top: 25px;
 }
