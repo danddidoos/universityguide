@@ -118,3 +118,10 @@ div.oxford {
     clear: both;
     margin-top: 25px;
 }
+
+.durham-logo {
+    width: 100px;
+    height: auto;
+    float:left;
+    padding-left: 20px;
+}
